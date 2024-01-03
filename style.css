@@ -133,3 +133,53 @@ h2 {
     font-weight: bold;
 }
 /*SECTION THREE END*/
+/*SECTION FOUR START*/
+
+.section-4 {
+    margin-top: 100px;
+}
+
+.modal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882F6;
+    margin-top: 150px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    border-radius: 8px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    gap: 100px;
+    color: #E5E7EB;
+}
+
+h3 {
+    margin: 0;
+}
+
+.content p {
+    margin: 0;
+}
+
+.modal button {
+    border: 3px solid;
+    font-weight: 500;
+    border-radius: 8px;
+    padding: 6px 25px;
+    color: white;
+    background-color: #3882F6;
+}
+/*SECTION FOUR END*/
+/*FOOTER START*/
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+/*FOOTER END*/
