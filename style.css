@@ -111,3 +111,25 @@ h2 {
 }
 
 /*SECTION END START*/
+/*SECTION THREE START*/
+.container-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+    padding: 100px 0;
+
+}
+.quote {
+    max-width: 760px;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.by {
+    margin-top: -90px;
+    margin-left: 50em;
+    font-weight: bold;
+}
+/*SECTION THREE END*/
